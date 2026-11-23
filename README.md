@@ -77,7 +77,7 @@ An hour later, Rosa, his office manager, emailed us. Mike hasn't seen it:
 
 ## Questions
 
-Some facts you'll need aren't in this repo. Email hr@theagilemorph.com and we'll answer during Indian working hours. If you don't want to wait, write down your assumption and keep going. Both are fine. We look at which gaps you noticed.
+Some facts you'll need aren't in this repo. Email info@theagilemorph.com and we'll answer during Indian working hours. If you don't want to wait, write down your assumption and keep going. Both are fine. We look at which gaps you noticed.
 
 ## Tools
 
