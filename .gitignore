@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+data/*.db
+!data/prod_snapshot.db
+data/sms_outbox.jsonl
+.pytest_cache/

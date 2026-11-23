@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Linda Morales",
+    "phone": "+15125550142",
+    "email": "linda.morales@example.com",
+    "address": "2214 Elm St, Austin, TX",
+    "message": "Hi, my name is Linda and we moved into the house on Elm about two years ago, your guys did our water heater back then and were great. I'm writing because there is water coming through the ceiling in the kitchen right under the upstairs bathroom and it's getting worse. Can someone come today?"
+  },
+  {
+    "name": "Derek Chu",
+    "phone": "+15125550177",
+    "email": "dchu@example.com",
+    "address": "908 Riverside Dr, Austin, TX",
+    "message": "Kitchen faucet has a slow drip. No rush, sometime next week is fine."
+  },
+  {
+    "name": "Marisol Vega",
+    "phone": "(512) 555-0190",
+    "email": "",
+    "address": "77 Pecan Grove, Round Rock, TX",
+    "message": "Se reventó una tubería en el garaje y hay agua por todas partes. Por favor llamen pronto."
+  },
+  {
+    "name": "Tom Becker",
+    "phone": "+15125550113",
+    "address": "4410 Burnet Rd, Austin, TX",
+    "message": "No hot water since this morning. Water heater is about 12 years old."
+  },
+  {
+    "name": "Priya Nair",
+    "phone": "+15125550165",
+    "email": "priya.n@example.com",
+    "address": "1500 S Lamar Blvd #210, Austin, TX",
+    "message": "Our basement floor drain backed up and it smells like sewage. Two kids at home!"
+  },
+  {
+    "name": "Greg Olsen",
+    "phone": "+15125550121",
+    "email": "golsen@example.com",
+    "address": "3302 Duval St, Austin, TX",
+    "message": "Looking for a quote to replace two toilets in a rental property."
+  },
+  {
+    "name": "Angela Ruiz",
+    "phone": "+15125550188",
+    "email": "aruiz@example.com",
+    "address": "615 W 34th St, Austin, TX",
+    "message": "Small leak under the bathroom sink. Put a bucket under it for now but it's filling up faster than yesterday."
+  },
+  {
+    "name": "Sam Patel",
+    "phone": "+15125550134",
+    "email": "sam.patel@example.com",
+    "address": "12 Oak Hollow, Cedar Park, TX",
+    "message": "Running toilet in the guest bath, been going for a few days."
+  }
+]
