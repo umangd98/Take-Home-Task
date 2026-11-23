@@ -88,9 +88,25 @@ Some facts you'll need aren't in this repo. Email hr@theagilemorph.com and we'll
     - If neither works on your machine, run the classifier test in mock mode and tell us. We grade how you built the test, not the score.
 - Never commit keys.
 
+## Getting the repo and sending your work
+
+Keep your work private. GitHub doesn't allow private forks of a public repo, so use one of these instead:
+
+- **Use this template:** click **Use this template** at the top of this repo, choose **Create a new repository**, and set it to **Private**.
+- **Or clone and push:** create an empty private repo on your account, then:
+
+```bash
+git clone https://github.com/umangd98/Take-Home-Task.git
+cd Take-Home-Task
+git remote set-url origin https://github.com/<you>/<your-private-repo>.git
+git push -u origin main
+```
+
+When you're done, add **kaustumbh7** as a collaborator (Settings, then Collaborators), and email us the link. Commit as you go, since we read the history.
+
 ## What to send
 
-1. Your repo as a zip, including `.git`. Commit as you go, since we read the history.
+1. Your private repo, shared with kaustumbh7
 2. `NOTES.md` with two parts:
     - **For Mike:** what went wrong and what you changed, in plain English, under 150 words
     - **For our team:** every issue you found, its cause, what you did about the live data, and what you'd fix next
